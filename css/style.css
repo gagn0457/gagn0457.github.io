@@ -198,3 +198,36 @@ footer a:visited{
   font-size: 0;
   animation: 30s slideshowanimation infinite;
 }
+
+div.table{
+    padding-top: 10px;
+    text-align: center;
+		margin:0 auto;
+		padding-bottom: 80px;
+
+}
+table, th, td {
+    text-align: center;
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 15px;
+		margin:0 auto;
+}
+h2{
+    padding-top: 45px;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    font-family: Segoe UI;
+    padding-bottom: 20px;
+}
+iframe{
+		margin:0 auto;
+}
+.googlemaps {
+		padding-top: 25px;
+		padding-bottom: 25px;
+    width: 512px;
+    display: block;
+    margin: 0 auto;
+}
